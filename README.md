@@ -6,7 +6,7 @@ A modern mobile-friendly HR management system built with **AppSheet** and **Goog
 
 ## 🖼️ App Screenshot
 
-![App Screenshot](images/app-demo.png)
+![App Screenshot](HRmanament.png)
 
 > *Replace this image with your actual app screenshot. Make sure the image is stored in the `images/` folder next to your README.md file.*
 
